@@ -64,33 +64,8 @@ PlanFirst demonstrates the core concept behind Traycer: **plans prevent the expe
 
 ---
 
-## 🎥 Demo
 
-> 🎬 **[Watch Demo Video](#)** *(Add your Loom/YouTube link here)*
 
-### Screenshots
-
-**Setup Screen - Project Intent Input**
-```
-[Add screenshot showing the purple gradient setup screen]
-```
-
-**Planning View - Phase Management**
-```
-[Add screenshot showing phases with drag-and-drop, expanded files]
-```
-
-**Statistics Dashboard**
-```
-[Add screenshot of the stats panel with metrics]
-```
-
-**Validation Warnings**
-```
-[Add screenshot showing validation warnings in action]
-```
-
----
 
 ## 🚀 Quick Start
 
@@ -312,9 +287,6 @@ See [IMPROVEMENTS.md](./IMPROVEMENTS.md) for 18+ detailed ideas including:
 
 ---
 
-## 🤝 Contributing
-
-This is a demonstration project for the Traycer AI hiring process, but feedback and ideas are welcome!
 
 ### Development
 
@@ -345,10 +317,8 @@ MIT License - feel free to use this code for learning and inspiration!
 
 ## 👤 About
 
-**Created by:** [Your Name]  
-**Purpose:** Traycer AI Take-Home Assignment  
-**Date:** [Current Date]  
-**Contact:** [Your Email] | [LinkedIn] | [Portfolio]
+**Created by:** [Chikkam Chiranjeevi Sai Murari]  
+**Date:** [4 October 2025]  
 
 ---
 
@@ -362,13 +332,12 @@ PlanFirst demonstrates that:
 - **Structure enables scale** - Phases break complexity into manageable chunks
 - **Validation saves time** - Catching errors before coding is 100x cheaper
 
-This is Traycer's vision: **Treat plans as first-class artifacts that guide AI agents to build exactly what's intended.**
+This is the vision: **Treat plans as first-class artifacts that guide AI agents to build exactly what's intended.**
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **Traycer AI** for the inspiring challenge and vision
 - **Anthropic** for Claude's excellent reasoning capabilities
 - **OpenAI** for GPT-4's language understanding
 - **React & TypeScript** communities for amazing tools
@@ -380,9 +349,8 @@ This is Traycer's vision: **Treat plans as first-class artifacts that guide AI a
 Have questions about the implementation or want to discuss the architecture?
 
 Feel free to reach out:
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn]
-- **GitHub Issues:** [Open an issue](https://github.com/yourusername/planfirst/issues)
+- **Email:** [chikkamsaimurari@gmail.com]
+- **LinkedIn:** [[Your LinkedIn](https://www.linkedin.com/in/saimurari-chikkam-a05779223/)]
 
 ---
 
@@ -390,6 +358,6 @@ Feel free to reach out:
 
 **⭐ If you found this interesting, please star the repository! ⭐**
 
-Built with 💜 by [Your Name] for Traycer AI
+Built with 💜 by [Sai Murari]
 
 </div>
